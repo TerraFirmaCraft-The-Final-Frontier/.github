@@ -1,3 +1,5 @@
+# [IMPORTANT UPDATE regarding this projects development.](https://terrafirmacraft-the-final-frontier.github.io)
+
 ## [TerraFirmaCraft: The Final Frontier](https://github.com/terrafirmacraft-the-final-frontier)
 ### TFC:TFF is a Minecraft x TerraFirmaCraft total overhaul progression focused modpack project.
 - TFC:TFF is still heavily under development.
